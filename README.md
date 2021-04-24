@@ -1,4 +1,4 @@
-# Learning
+# Teaching
 
 Teaching Students Rust for future work.
 
